@@ -1,0 +1,389 @@
+@charset "utf-8";
+body {
+    margin: 0;
+    background-image: url(url);	
+}
+#videobkg {
+    position: fixed;
+    width: 1366px;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    left: 0px;
+    z-index: -1000;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    top: 0px;
+    color: #FFFFFF;
+    text-align: center;
+}
+wrapper {
+    margin: auto;
+    display: block;
+    width: 1366px;
+}
+nav {
+    background-color: #F1E9C9;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+li {
+    display: inline-block;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    color: #F87932;
+    margin-left: 48px;
+    font-family: "cooper-black-std", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-variant: normal;
+}
+li:hover {
+    color: #30641C;
+}
+main {
+    height: 650px;
+}
+footer {
+    background-color: #F1E9C9;
+    padding-top: 6px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    color: #FFFFFF;
+}
+header {
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    background-image: url("logo.png");
+    display: block;
+    background-repeat: no-repeat;
+    margin-left: 397px;
+    width: 615px;
+}
+.music{
+    
+    text-align: center;
+}
+.title2{
+    font-family: "cooper-black-std", serif;
+    color: #FDD04C;
+    font-size: 61px;
+    text-shadow: 4px 4px 2px #1A630E;
+    display: inline-block;
+    text-align: center;
+    margin-left: 39px;
+    margin-top: 146px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#photos{
+    
+    margin-top: 0px;
+    width: 1366px;
+    height: 650px;
+    background-size: cover;
+    display: block;
+    padding-top: 8px;
+}
+.title{
+    font-family: "cooper-black-std", serif;
+    color: #FDD04C;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 4px 4px 2px #1A630E;
+    margin-top: -21px;
+    padding-top: 20px;
+}
+.gallery{
+    text-align: center;
+    padding-top: 0px;
+}
+.video{
+    display: inline-block;
+    text-align: center;
+	
+}
+.spotify{
+    padding-left: 261px;
+}
+#socials{
+    margin-top: 72px;
+    display: inline-block;
+    margin-left: 637px;
+    padding-left: 9px;
+}
+.insta{
+    padding-right: 10px;	
+}
+.twitter{
+    padding-right: 10px;	
+}
+.button{
+    background-color: #FDD04C;
+    border-radius: 20px;
+    color: white;
+    width: 10%;
+    height: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-family: "cooper-black-std", serif;
+}
+.title3{
+    font-family: "cooper-black-std", serif;
+    color: #FDD04C;
+    font-size: 71px;
+    text-align: center;
+    text-shadow: 4px 4px 2px #1A630E;
+    margin-top: 9px;
+    padding-top: 20px;
+}
+.libre {
+    margin-top: -37px;
+}
+.land {
+    margin-left: 72px;
+}
+.trippy {
+    margin-left: 72px;
+    margin-top: 64px;
+}
+.cornetas {
+    margin-left: 72px;
+}
+.newst{
+	 font-family: "cooper-black-std", serif;
+    color: #FDD04C;
+    font-size: 71px;
+    text-align: center;
+    text-shadow: 4px 4px 2px #1A630E;
+    margin-top: 9px;
+    padding-top: 20px;
+}
+#news2{
+    background-color: #FDD04C;
+    background-size: 400px 600px;
+    display: inline-block;
+    text-align: center;
+    margin-top: -77px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-left: 141px;
+}
+#news1{
+    background-color: #FDD04C;
+    background-size: 400px 600px;
+    display: inline-block;
+    text-align: center;
+    margin-top: -37px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-left: 8px;
+}
+#news3{
+    background-color: #FDD04C;
+    background-size: 400px 600px;
+    display: inline-block;
+    text-align: center;
+    margin-top: -37px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-left: 152px;
+}
+.newsp1{
+    margin-top: -54px;
+}
+.content{
+    margin-top: -35px;
+}
+.titlen {
+    font-size: 18px;
+    text-decoration: underline;
+    padding-top: 3px;
+    padding-bottom: 4px;
+}
+.arrow {
+    margin-left: 307px;
+    margin-top: -34px;
+}
+.videost{
+	 font-family: "cooper-black-std", serif;
+    color: #FDD04C;
+    font-size: 71px;
+    text-align: center;
+    text-shadow: 4px 4px 2px #1A630E;
+    margin-top: 9px;
+    padding-top: 20px;
+}
+.videos1{
+    text-align: center;	
+}
+.videos2{
+    text-align: center;
+    margin-top: 31px;
+}
+.two{
+    padding-left: 53px;
+    padding-right: 53px;
+}
+.three{
+	padding-left: 53px;
+	padding-right: 53px;
+}
+.tourt{
+	font-family: "cooper-black-std", serif;
+    color: #FDD04C;
+    font-size: 71px;
+    text-align: center;
+    text-shadow: 4px 4px 2px #1A630E;
+    margin-top: 9px;
+    padding-top: 20px;
+}
+.tourdates{
+    text-align: center;
+    display: block;
+    width: 102%;
+    font-family: futura-pt, sans-serif;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: 60px;
+    margin-bottom: 0;
+    font-size: 15px;
+    color: #FFFFFF;
+    border-style: hidden;
+    font-style: oblique;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 115px 4px;
+}
+.title4{
+	 font-family: "cooper-black-std", serif;
+    color: #FDD04C;
+    font-size: 71px;
+    text-align: center;
+    text-shadow: 4px 4px 2px #1A630E;
+    margin-top: 9px;
+    padding-top: 20px;
+}
+.content9{
+	font-family: futura-pt, sans-serif;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+
+
+
+.content9-text2{
+    background-color: #FDD04C;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    padding: 25px 0;
+    letter-spacing: 1px;
+	    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+form{
+    background-color: rgba(255,255,255,0.90);
+    height: 420px;
+    margin-top: 80px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    width: 33%;
+}
+input{
+    display: block;
+    margin-top: 90px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    width: 75%;
+    border: 2px solid #1A630E;
+    height: 44px;
+    font-size: 1.2em;
+    padding-left: 3px;
+    text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.submit{
+    font-weight: 400;
+    height: 65px;
+    margin-top: 75px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    border: none;
+    width: 75%;
+    background-color: #FDD04C;
+    color: white;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+.submit:hover{
+    background-color: #216715;
+}
+#email{
+    margin-top: 69px;
+}
+#merch{
+	 background-color: rgba(255,255,255,0.90);
+}.mercht {
+	 font-family: "cooper-black-std", serif;
+    color: #FDD04C;
+    font-size: 71px;
+    text-align: center;
+    text-shadow: 4px 4px 2px #1A630E;
+    margin-top: 9px;
+    padding-top: 20px;
+}
+.merchandisecontent{
+			font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+			text-align: center;
+			font-weight: 300;
+		}
+		.merchbox1{
+    margin-top: -16px;
+		}
+		.merch{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: -49px;
+		}
+		.merchartitle{
+    font-size: 15px;
+    padding: 20px 0 10px 0;
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-top: -13px;
+}
+.merchbox2{
+    margin-top: 15px;	
+}
+.join{
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: xx-large;
+    text-shadow: 2px 2px 2px #FDD04C;
+}
+.qr{
+    margin-left: 570px;
+}
+.text4{
+    margin-left: 143px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+}
